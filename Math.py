@@ -31,7 +31,7 @@ def trial_division(n):
 
 # =========================
 # 2. Fermat Primality Test 
-def fermat_test(n, k=10):
+def fermat_test(n, k= 50):
     if n < 2:
         return False
     if n in (2, 3):

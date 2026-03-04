@@ -1,5 +1,5 @@
 
-Small use for trail 
+1.Small use for trail 
 #Prime number
 7
 13
@@ -13,20 +13,30 @@ Small use for trail
 221     (13 × 17)
 561     (Carmichael number)
 
-meduim number  use for formal 
+////////////////////////////////////////
+
+2.meduim number  use for formal 
 #prime
 10007
 104729
 32416190071
 9999999967
+///////////////////////////
+number for can prime (k-big) and composite k small
 
+1729
+1105
+561
+//////////////////////////
 #composite
 10005
 104730
-32416190070
+32416190070 >
 9999999969
 
-big number use for miler
+//////////////////////////////////////////////////////
+
+3.big number use for miler
 #prime
 2305843009213693951   (2^61 - 1)
 

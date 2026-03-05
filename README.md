@@ -27,6 +27,10 @@ number for can prime (k-big) and composite k small
 1729
 1105
 561
+2465
+2821
+6601
+
 //////////////////////////
 #composite
 10005

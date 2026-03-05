@@ -40,6 +40,7 @@ def fermat_test(n, k= 10):
         return False
     
     for _ in range(k):
+       # a = 2     # check for it Carmichael
         a = random.randint(2, n - 2)
         if power_modular(a, n - 1, n) != 1:
             return False
